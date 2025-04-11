@@ -23,7 +23,7 @@ I'm a passionate MERN stack developer focused on building clean, scalable, and u
 `React` / `JavaScript` / `HTML` / `CSS` / `Tailwind CSS` / `Bootstrap`
 
 **Backend:**  
-`Node.js` / `Express.js` / `MongoDB` / `REST APIs`
+`Node.js` / `Express.js` / `MongoDB` /  `Redis` / `REST APIs`
 
 **Tools & Platforms:**  
 `Git` / `GitHub` / `VS Code` / `Postman` / `Figma`
